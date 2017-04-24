@@ -2,6 +2,7 @@
  * tcpclient.c - A simple TCP client
  * usage: tcpclient <host> <port>
  */
+//author: https://www.cs.cmu.edu/afs/cs/academic/class/15213-f99/www/class26/tcpclient.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
